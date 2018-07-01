@@ -1,0 +1,8 @@
+
+\squid:UnusedPrivateMethod"2Remove this unused private "setScrollView" method.(ˆ¾–ê8ªëÄÅ,
+Fsquid:S1068"+Remove this unused "context" private field.(êİç8ªëÄÅ,
+Fsquid:S1068"*Remove this unused "btnTop" private field.(àıÏõ8ªëÄÅ,
+Isquid:S1068"-Remove this unused "btnBottom" private field.(µ ˆ8ªëÄÅ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Ÿ”8ªëÄÅ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( š³•ıÿÿÿÿ8ªëÄÅ,
+Dsquid:S1185"(Remove this method to simply inherit it.(§ó°›8ªëÄÅ,
